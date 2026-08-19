@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rgmamani.github.io/img/yo2.jpg" width="150" alt="Gabriel Mamani" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/1243126?v=4" width="150" alt="Gabriel Mamani" style="border-radius: 50%;">
 </p>
 
 # 👋 Hi there! I'm Gabriel Mamani
