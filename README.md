@@ -124,7 +124,7 @@ I'm a software professional with **16+ years** of experience in systems analysis
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgmamani&theme=radical&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" width="60%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgmamani&theme=radical" alt="GitHub Streak" width="60%">
 </p>
 
 ---
