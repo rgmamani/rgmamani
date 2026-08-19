@@ -116,19 +116,6 @@ I'm a software professional with **16+ years** of experience in systems analysis
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-ten.vercel.app/api?username=rgmamani&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats-sigma-ten.vercel.app/api/top-langs/?username=rgmamani&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" alt="Top Languages" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgmamani&theme=radical" alt="GitHub Streak" width="60%">
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
